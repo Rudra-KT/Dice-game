@@ -58,3 +58,25 @@ footer {
 .dice-icon{
   color: red;
 }
+@media (max-width:900px) {
+  h1{
+    font-size: 4.5rem;
+  }
+  .img1{
+    width: 50%;
+  }
+  .img2{
+    width: 50%;
+  }
+}
+@media (max-width:600px) {
+  h1{
+    font-size: 3.5rem;
+  }
+    .img1{
+      width: 40%;
+    }
+    .img2{
+      width: 40%;
+    }
+}
